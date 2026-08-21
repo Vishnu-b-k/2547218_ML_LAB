@@ -1,6 +1,6 @@
 # Machine Learning Labs
 
-Welcome to the Machine Learning Labs repository! This repository acts as a comprehensive showcase of practical implementations, experiments, and exercises covering various fundamental and advanced concepts in Machine Learning.
+This repository acts as a comprehensive showcase of practical implementations, experiments, and exercises covering various fundamental and advanced concepts in Machine Learning as part of academic practice
 
 ## Repository Structure & Branches
 
